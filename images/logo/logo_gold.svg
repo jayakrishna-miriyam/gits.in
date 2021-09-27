@@ -1,0 +1,23 @@
+<svg id="Gold_Yellow" xmlns="http://www.w3.org/2000/svg" width="462" height="53" viewBox="0 0 462 53">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        font-size: 62.5px;
+        font-family: "Gill Sans MT";
+      }
+
+      .cls-1 {
+        fill: #212529;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #ffb600;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <text id="MRR" class="cls-1" transform="translate(-3.117 45.221) scale(0.779)">MRR</text>
+  <path class="cls-2" d="M265.176,373L584.1,372l-15.43,53H250.457Z" transform="translate(-130 -372)"/>
+  <text id="ENTERPRISES" class="cls-3" transform="translate(142.936 45.221) scale(0.779)">ENTERPRISES</text>
+</svg>
